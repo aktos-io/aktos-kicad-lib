@@ -1,3 +1,16 @@
+# INSTALL and USE updater 
+
+```
+cp update-aktos-kicad-lib.sh /somefolder/in-your-PATH-variable/
+chmod +x ~/bin/update-aktos-kicad-lib.sh
+```
+
+Then whenever you need to update library, type the following in any terminal window: 
+
+```
+$ update-aktos-kicad-lib.sh
+```
+
 # INSTALL
 
 run `sudo ./install.sh`
