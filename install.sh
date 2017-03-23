@@ -6,6 +6,8 @@ KICAD_MODULES_DIR="$KICAD_DATA_DIR/modules"
 
 # *.lib, *.dcm should go to this directory
 KICAD_LIBRARY_DIR="$KICAD_DATA_DIR/library"
+mkdir $KICAD_LIBRARY_DIR 2> /dev/null 
+mkdir $KICAD_MODULES_DIR 2> /dev/null 
 
 mkdir tmp-backup-original 2> /dev/null
 
