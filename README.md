@@ -1,19 +1,11 @@
 # INSTALL and USE updater 
 
-```
-cp update-aktos-kicad-lib.sh /somefolder/in-your-PATH-variable/
-chmod +x ~/bin/update-aktos-kicad-lib.sh
-```
 
-Then whenever you need to update library, type the following in any terminal window: 
+Then whenever you need to update library, type the following: 
 
 ```
-$ update-aktos-kicad-lib.sh
+$ sudo ./install-or-update.sh
 ```
-
-# INSTALL
-
-run `sudo ./install.sh`
 
 ## In order to add Eeschema:
 
