@@ -1,6 +1,0 @@
-[submodule "kicad-library"]
-	path = kicad-library
-	url = https://github.com/ceremcem/kicad-library
-[submodule "kicad-source-mirror"]
-	path = kicad-source-mirror
-	url = https://github.com/aktos-io/kicad-source-mirror
