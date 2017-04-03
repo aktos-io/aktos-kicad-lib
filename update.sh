@@ -42,7 +42,3 @@ for i in `find libs -iname "*.lib" -o -iname "*.dcm"`; do
   fi
 done
 
-echo "-----------------------"
-echo "updating kicad-library"
-$DIR/library-repos-install.sh --install-or-update /home/ceremcem
-
