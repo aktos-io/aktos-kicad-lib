@@ -25,11 +25,6 @@
 
 # Set where the library repos will go, use a full path
 HOME=$2
-if [[ "$HOME" == "" ]]; then 
-    echo "pass HOME directory as second parameter"
-    exit 1
-fi 
-
 WORKING_TREES=${WORKING_TREES:-$HOME/kicad_sources}
 
 
