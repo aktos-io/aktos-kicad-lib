@@ -1,10 +1,13 @@
+# Library Layout 
+
+* footprints  : *.pretty folders (footprints) go here 
+* libs        : eeschema libs 
+* packages3d  : 3D drawings
+
+
 # INSTALL and USE updater 
 
 
-Then whenever you need to update library, type the following: 
-
-```
-$ sudo ./install-or-update.sh
 ```
 
 ## In order to add Eeschema:
