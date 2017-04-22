@@ -1,0 +1,3 @@
+[submodule "mcous"]
+	path = mcous
+	url = https://github.com/mcous/kicad-lib
